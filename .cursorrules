@@ -1,0 +1,17 @@
+# Cursor AI Rules for this project
+
+# This file helps Cursor understand the project structure and linting setup
+
+## ESLint Configuration
+
+- ESLint is configured with .eslintrc.cjs
+- React Hooks rules are enabled
+- Prop-types validation is required
+- All JavaScript and JSX files should be linted
+
+## Project Structure
+
+- React project with custom hooks
+- Components in src/components/
+- Custom hooks in src/hooks/
+- Main app in src/App.jsx
